@@ -10,7 +10,7 @@ const openapiConfig = [
     // Project name, will create a subdirectory using this name
     projectName: 'quant',
     apiPrefix: '',
-    mockFolder: './mock',
+
     enumStyle: 'string-literal',
   },
 ];
